@@ -82,11 +82,11 @@
 # Fortunately, Python knows that these are special characters
 # and you can ask it to read one line at a time.
 
-with open('C:/Users/RITA/ritapython/some_file.txt') as f:
-    line1 = f.readline()
-    print(line1)
-    line2 = f.readline()
-    print(line2)
+# with open('C:/Users/RITA/ritapython/some_file.txt') as f:
+#     line1 = f.readline()
+#     print(line1)
+#     line2 = f.readline()
+#     print(line2)
 
 
 
