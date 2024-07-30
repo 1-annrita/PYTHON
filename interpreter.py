@@ -21,7 +21,10 @@
 
 
 # IPython
-# There is actually an awesome alternative to the default Python interactive interpreter, IPython, which comes with many additional features.
+
+# There is actually an awesome alternative to the default Python 
+# interactive interpreter, IPython, which comes with many additional 
+# features.
 
 # tab completion
 # ? for details about an object
